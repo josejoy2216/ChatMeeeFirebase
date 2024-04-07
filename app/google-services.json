@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088658695075",
+    "project_id": "chatmee-5eb4f",
+    "storage_bucket": "chatmee-5eb4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088658695075:android:283f6744d2706654503016",
+        "android_client_info": {
+          "package_name": "com.example.chatmeeefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABWpP9hGgk40gcU0RoK4mbuAtjXASWNqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088658695075:android:56c1a19b825ef84b503016",
+        "android_client_info": {
+          "package_name": "com.example.chatmeefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABWpP9hGgk40gcU0RoK4mbuAtjXASWNqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
